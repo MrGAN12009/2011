@@ -6,7 +6,7 @@
 # float
 # name = 10.01
 # print(type(name))
-
+asdf
 # str
 # name = "adfojdlkfjodf"
 # print(type(name))
